@@ -1,16 +1,30 @@
-### Hi there 👋
+### Olá, meu nome é Vinícius
 
-<!--
-**viniciussilvaaragao/viniciussilvaaragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 *Graduando* em Física com habilitação para **Física Médica** na Universidade Federal de Sergipe.
+- 👨‍💻 *Estudando* linguagens de programação para aplicação em análise de imagens médicas.
+- ✅ Interessado em Machine Learning, Deep Learning e IA.
+- Atualmente focado com:
+<div display="inline">
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />&nbsp;&nbsp;                    
+</div>  
+- Tem experiência com:
+<div display="inline"> 
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />&nbsp;&nbsp;                      
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />&nbsp;&nbsp;            
+  &nbsp;&nbsp;<img width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;          
+</div> 
+  ##
+#### Você também me encontra em:  
+<a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+  <img width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />  
+</a>
+           
+                   
+          
+          
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
