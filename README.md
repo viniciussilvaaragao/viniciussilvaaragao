@@ -5,11 +5,15 @@
 - ✅ *Interessado* em **Machine Learning**, **Deep Learning** e **Data Segmentation**.
 - Atualmente focado em:
 <div display="inline">
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;                      
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;  
+  &nbsp;&nbsp<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />&nbsp;&nbsp          
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />&nbsp;&nbsp;                       
 </div>  
+
+- Tem experiência com:
+  
+  Pandas | Numpy | Scikit Learn | OpenCV | Streamlit | Pydicom | Selenium | Pyautogui
+
 
   ##
   
