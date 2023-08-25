@@ -1,7 +1,7 @@
 ### Olá, meu nome é Vinícius
 
 - 📚 *Graduando* em Física com habilitação para **Física Médica** na Universidade Federal de Sergipe.
-- 👨‍💻 *Estudando* linguagens de programação para aplicação em análise de imagens médicas e automação de processos.
+- 👨‍💻 *Estudando* linguagem de programação python para aplicação em análise de imagens médicas e automação de processos.
 - ✅ *Interessado* em **Machine Learning**, **Deep Learning** e **Data Segmentation**.
 - Atualmente focado em:
 <div display="inline">
