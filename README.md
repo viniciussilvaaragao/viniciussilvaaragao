@@ -2,12 +2,14 @@
 
 - 📚 *Graduando* em Física com habilitação para **Física Médica** na Universidade Federal de Sergipe.
 - 👨‍💻 *Estudando* linguagem de programação **python** para aplicação em análise de imagens médicas e automação de processos.
-- ✅ *Interessado* em **Machine Learning**, **Deep Learning** e **Data Segmentation**.
+- ✅ *Interessado* em **Machine Learning**, **Deep Learning**, **Data Segmentation** e **Web Development**.
 - Atualmente focado em:
 <div display="inline">
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;  
   &nbsp;&nbsp<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp          
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;                       
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  
 </div>  
 
 - Tem experiência com:
